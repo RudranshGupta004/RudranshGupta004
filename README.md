@@ -11,7 +11,7 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 
 ## 📄 **Resume**
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/15g_i7KEtmRzFYNsrp6xh_UVjidt2Kc89/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-FF5733?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
