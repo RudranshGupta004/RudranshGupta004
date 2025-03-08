@@ -2,7 +2,7 @@
   <img src="https://github.com/RudranshGupta004/RudranshGupta004/blob/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?raw=true" width="100%">
 </p>
 
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm **Rudransh** 🚀🚀
 🚀 **Developer | Tech Enthusiast | Open Source Contributor**  
 
 I love building **scalable applications, exploring new tech, and solving real-world problems!** 🎯  
@@ -19,7 +19,7 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 ---
 
 ## 🌟 **What I'm Currently Working On**  
-🔨 **Building:** [Your Current Project](Your_Project_Link) | 🎯 **Exploring:** AI, Blockchain & System Design  
+🔨 **Building:** Advanced AI Model to detrect Deepfake Videos detection. | 🎯 **Exploring:** AI, Blockchain & System Design  
 📚 **Learning:** Advanced DevOps & Distributed Systems  
 
 ---
@@ -68,7 +68,3 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 | 🖥️ **[Project 3](Project_Link)** - Description here |
 
 ---
-
-## 🚀 **Quick Setup**  
-📌 Copy this **README**, edit links, push to GitHub!  
-🎯 **Enjoy your interactive profile!**  
