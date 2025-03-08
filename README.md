@@ -21,3 +21,6 @@ I love building **innovative solutions** and contributing to **open-source proje
 🔭 Currently working on: **[Project Name](Project_Link)**  
 🌱 Learning: **AI, Web3, Cloud Computing**  
 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
