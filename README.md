@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100%">
+  <img src="https://github.com/RudranshGupta004/RudranshGupta004/blob/main/2_4.gif?raw=true" width="100%">
 </p>
 
 # Hi there! 👋 I'm **Rudransh** 🚀🚀
