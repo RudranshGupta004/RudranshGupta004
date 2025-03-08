@@ -62,18 +62,10 @@ I love building **scalable applications, exploring new technologies, and solving
 
 ---
 
-## 🕶️ **Cool Interactive Features**
-🎵 **Now Playing on Spotify:**  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)  
-
-🎯 **GitHub Achievements**  
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=5)  
 
 📌 **Random Dev Quote**  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
-💡 **Programming Meme of the Day**  
-![Meme](https://random-memer.herokuapp.com/)  
 
 ---
 
