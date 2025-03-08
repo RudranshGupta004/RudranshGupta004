@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋 I'm [Your Name]  
+🚀 Full Stack Developer | 🧠 AI Enthusiast | 🎨 UI/UX Designer  
+
+I love building **innovative solutions** and contributing to **open-source projects**!  
+🔭 Currently working on: **[Project Name](Project_Link)**  
+🌱 Learning: **AI, Web3, Cloud Computing**  
+📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
