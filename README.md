@@ -5,7 +5,7 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 
 ---
 
-## 🌟 **What I'm Currently Working On**  
+## 🌟 **What I'm Currently Working On**
 🔨 **Building:** [Your Current Project](Your_Project_Link) | 🎯 **Exploring:** AI, Blockchain & System Design  
 📚 **Learning:** Advanced DevOps & Distributed Systems  
 
@@ -42,12 +42,12 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 
 ---
 
-## 📌 **Projects & Dev Quote**  
-| 🚀 **Projects** | 💡 **Dev Quote** |
-|---------------|----------------|
-| 🛠️ **[Project 1](Project_Link)** - Description here | ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
-| 📱 **[Project 2](Project_Link)** - Description here | |
-| 🖥️ **[Project 3](Project_Link)** - Description here | |
+## 📌 **Projects**  
+| 🚀 **Projects** |
+|---------------|
+| 🛠️ **[Project 1](Project_Link)** - Description here |
+| 📱 **[Project 2](Project_Link)** - Description here |
+| 🖥️ **[Project 3](Project_Link)** - Description here |
 
 ---
 
