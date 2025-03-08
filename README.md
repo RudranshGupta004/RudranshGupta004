@@ -6,7 +6,7 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 ---
 
 ## 🌟 **What I'm Currently Working On**
-🔨 **Building:** [Your Current Project](Your_Project_Link) | 🎯 **Exploring:** AI, Blockchain & System Design  
+🔨 **Building:** Advanced AI/ML Deepfake Detection Model | 🎯 **Exploring:** AI, Blockchain & System Design  
 📚 **Learning:** Advanced DevOps & Distributed Systems  
 
 ---
@@ -49,8 +49,3 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 | 📱 **[Project 2](Project_Link)** - Description here |
 | 🖥️ **[Project 3](Project_Link)** - Description here |
 
----
-
-## 🚀 **Quick Setup**  
-📌 Copy this **README**, edit links, push to GitHub!  
-🎯 **Enjoy your interactive profile!**  
