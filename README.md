@@ -1,7 +1,20 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%">
+</p>
+
 # Hi there! 👋 I'm [Your Name]  
 🚀 **Developer | Tech Enthusiast | Open Source Contributor**  
 
 I love building **scalable applications, exploring new tech, and solving real-world problems!** 🎯  
+
+---
+
+## 📄 **Resume**
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-FF5733?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
