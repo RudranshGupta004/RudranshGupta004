@@ -25,7 +25,7 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 ---
 
 ## 💡 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rudransh-gupta-9a0126218)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)  
 [![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/yourusername)  
