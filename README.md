@@ -58,13 +58,4 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
----
 
-## 📌 **Projects**  
-| 🚀 **Projects** |
-|---------------|
-| 🛠️ **[Project 1](Project_Link)** - Description here |
-| 📱 **[Project 2](Project_Link)** - Description here |
-| 🖥️ **[Project 3](Project_Link)** - Description here |
-
----
