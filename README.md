@@ -5,8 +5,8 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 
 ---
 
-## 🌟 **What I'm Currently Working On**
-🔨 **Building:** Advanced AI/ML Deepfake Detection Model | 🎯 **Exploring:** AI, Blockchain & System Design  
+## 🌟 **What I'm Currently Working On**  
+🔨 **Building:** [Your Current Project](Your_Project_Link) | 🎯 **Exploring:** AI, Blockchain & System Design  
 📚 **Learning:** Advanced DevOps & Distributed Systems  
 
 ---
@@ -40,6 +40,11 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 🎨 **Design & UI/UX:**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)  
 
+🖥 **IDEs & Tools:**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+
 ---
 
 ## 📌 **Projects**  
@@ -49,3 +54,8 @@ I love building **scalable applications, exploring new tech, and solving real-wo
 | 📱 **[Project 2](Project_Link)** - Description here |
 | 🖥️ **[Project 3](Project_Link)** - Description here |
 
+---
+
+## 🚀 **Quick Setup**  
+📌 Copy this **README**, edit links, push to GitHub!  
+🎯 **Enjoy your interactive profile!**  
