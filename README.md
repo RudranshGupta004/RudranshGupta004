@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6626445-Hello-world&psig=AOvVaw1dYJ0315jXEdBxTsF6zEfR&ust=1741543730023000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDe1MeK-4sDFQAAAAAdAAAAABBG" width="100%">
+  <img src="" width="100%">
 </p>
 
 # Hi there! 👋 I'm **Rudransh** 🚀🚀
